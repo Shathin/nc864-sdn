@@ -2,11 +2,11 @@
 
 ## Problem Statement
 
-_[View problem statement](./NC864_Assignment_2.pdf)_
+_[View problem statement](./Assignment-2.pdf)_
 
 ## Reports
 
-Read the report _[here](./Report.pdf)_ or  on _[Notion](https://shathin.notion.site/NC864-SDN-Assignment-2-0c6d4cdd7d5f4879ae14a2806014828c)._
+Read the report _[here](./Report.pdf)_ or  on _[Notion](https://shathin.notion.site/NC864-SDN-Assignment-2-0c6d4cdd7d5f4879ae14a2806014828c)_.
 
 ## Target Network
 
